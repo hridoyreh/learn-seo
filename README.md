@@ -1,6 +1,10 @@
 # Learn SEO
 
+This repository is a roadmap for learning SEO, with resources for everything from the very basics to advanced SEO. And whether you’re starting from scratch or looking to brush up on your skills, this repository will help you learn SEO not just through reading, but through real-world examples.
+
 ## SEO Fundamentals
+
+It’s your starting point to learn how search engines work and rank content that drives traffic.
 
 ### Introduction to SEO
 
